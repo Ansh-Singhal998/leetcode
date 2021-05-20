@@ -11,7 +11,7 @@ CP Problems on leetcode
 [714 Best Time to Buy and Sell Stocks with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)<br />
 [877 Stone Game](https://leetcode.com/problems/stone-game)<br />
 [931 Minimum Falling Sum Path](https://leetcode.com/problems/minimum-falling-path-sum)<br />
-[960 Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii]<br/>
+[960 Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii)<br/>
 [978 Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)<br />
 [983 Minimum Cost for Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)<br />
 [1025 Divisor Game](https://leetcode.com/problems/divisor-game)<br />
